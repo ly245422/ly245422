@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yue Li.
-- :mortar_board:  Undergraduate
+- :mortar_board:  Undergraduate majoring in Intelligent Science and Technology in the School of Intelligent Engineering
 - :school:  Sun Yat-sen University
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

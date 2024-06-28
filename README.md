@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Yue Li.
+Hello, World 👋
 - :mortar_board:  Undergraduate majoring in Intelligent Science and Technology in the School of Intelligent Engineering
 - :school:  Sun Yat-sen University
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in 2D/3D pose estimation, LLM and AIGC.
+- 📫 How to reach me :
+  * 🏡github-repo: [ly245422](https://github.com/ly245422/) you can contact me by leaving message in this repo
+  * 📮Email: yue3184@gmail.com
+- 😄 I have published 5 articles in international conferences.
+- ⚡ All relevant code has been open-sourced on my homepage.
 
 <!---
 ly245422/ly245422 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
